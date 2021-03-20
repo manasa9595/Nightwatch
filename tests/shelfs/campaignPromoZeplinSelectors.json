@@ -1,0 +1,21 @@
+{
+    "componentName": {
+        "selector": "[data-id='5a706862c99a065a25e0d666']"
+    },
+    "shelf": {
+        "padding-top": {
+            "selector": "[data-id='5a706862c99a065a25e0d6c1']",
+            "MoveToELementSel": "[data-id='5a706862c99a065a25e0d6c3']"
+        },
+        "padding-bottom": {
+            "selector": "[data-id='5a706862c99a065a25e0d6b8']",
+            "MoveToELementSel": "[data-id='5a706862c99a065a25e0d6b3']"
+        }
+    },
+    "image": {
+        "selector": "[data-id='5a706862c99a065a25e0d6b8']"
+    },
+    "title": {
+        "selector": "[data-id='5a706862c99a065a25e0d6c1']"
+    }
+}

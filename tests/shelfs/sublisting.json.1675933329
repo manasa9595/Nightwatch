@@ -1,0 +1,159 @@
+{
+	"component": {
+		"xl": {
+			"name_selector": "",
+			"version": "May 2, 2018, 9:17 PM GMT+5:30"
+		},
+		"l": {
+			"name_selector": "",
+			"version": "May 2, 2018, 9:17 PM GMT+5:30"
+		},
+		"m": {
+			"name_selector": ""
+		},
+		"s": {
+			"name_selector": ""
+		}
+	},
+	"shelf": {
+		"zeplin-selectors": {
+			"xl": {
+				"padding-top": {
+					"selector": "[data-id='5ae9dda04b237de55f873047']",
+					"MoveToELementSel": "[data-id='5ae9dda04b237de55f872fba']"
+				},
+				"padding-bottom": {
+					"selector": "[data-id='5ae9dda04b237de55f872fba']",
+					"MoveToELementSel": "[data-id='5ae9dda04b237de55f873030']"
+				}
+			},
+			"l": {
+				"padding-top": {
+					"selector": "",
+					"MoveToELementSel": ""
+				},
+				"padding-bottom": {
+					"selector": "",
+					"MoveToELementSel": ""
+				}
+			},
+			"m": {
+				"padding-top": {
+					"selector": "",
+					"MoveToELementSel": ""
+				},
+				"padding-bottom": {
+					"selector": "",
+					"MoveToELementSel": ""
+				}
+			},
+			"s": {
+				"padding-top": {
+					"selector": "",
+					"MoveToELementSel": ""
+				},
+				"padding-bottom": {
+					"selector": "",
+					"MoveToELementSel": ""
+				}
+			}
+		},
+		"publish-selector": ""
+	},
+	"imageWrap": {
+		"image": {
+			"zeplin-selector": {
+				"xl": "[data-id='5ae9dda04b237de55f872fd4']",
+				"l": "",
+				"m": "",
+				"s": ""
+			},
+			"publish-selector": ""
+		},
+		"imageTitle": {
+			"zeplin-selector": {
+				"xl": "",
+				"l": "",
+				"m": "",
+				"s": ""
+			},
+			"publish-selector": ""
+		},
+		"imageText": {
+			"zeplin-selector": {
+				"xl": "",
+				"l": "",
+				"m": "",
+				"s": ""
+			},
+			"publish-selector": ""
+		}
+	},
+	"textWrap": {
+		"mainText": {
+			"zeplin-selector": {
+				"xl": "",
+				"l": "",
+				"m": "",
+				"s": ""
+			},
+			"publish-selector": ""
+		},
+		"subText": {
+			"zeplin-selector": {
+				"xl": "",
+				"l": "",
+				"m": "",
+				"s": ""
+			},
+			"publish-selector": ""
+		},
+		"bulletText": {
+			"zeplin-selector": {
+				"xl": "",
+				"l": "",
+				"m": "",
+				"s": ""
+			},
+			"publish-selector": ""
+		}
+	},
+	"titleWrap": {
+		"mainTitle": {
+			"zeplin-selector": {
+				"xl": "",
+				"l": "",
+				"m": "",
+				"s": ""
+			},
+			"publish-selector": ""
+		},
+		"subTitle": {
+			"zeplin-selector": {
+				"xl": "",
+				"l": "",
+				"m": "",
+				"s": ""
+			},
+			"publish-selector": ""
+		}
+	},
+	"primary_CTA": {
+		"zeplin-selector": {
+			"xl": "",
+			"l": "",
+			"m": "",
+			"s": ""
+		},
+		"publish-selector": ""
+	},
+	"secondary_CTA": {
+		"zeplin-selector": {
+			"xl": "",
+			"l": "",
+			"m": "",
+			"s": ""
+		},
+		"publish-selector": ""
+	}
+}

@@ -1,0 +1,26 @@
+{
+    "component": {
+        "name_selector": "[data-id='5a706862c99a065a25e0d666']"
+    },
+    "shelf": {
+        "zeplin-selectors": {
+            "padding-top": {
+                "selector": "[data-id='5a706862c99a065a25e0d6c1']",
+                "MoveToELementSel": "[data-id='5a706862c99a065a25e0d6c3']"
+            },
+            "padding-bottom": {
+                "selector": "[data-id='5a706862c99a065a25e0d6b8']",
+                "MoveToELementSel": "[data-id='5a706862c99a065a25e0d6b3']"
+            }
+        },
+        "publish-selector": ".campaign-promo "
+    },
+    "imageWrap": {
+        "zeplin-selector": "[data-id='5a706862c99a065a25e0d6b8']",
+        "publish-selector": ".campaign-promo .comp-img-generic"
+    },
+    "titleWrap": {
+        "zeplin-selector": "[data-id='5a706862c99a065a25e0d6c1']",
+        "publish-selector": ".campaign-promo .title-comp"
+    }
+}

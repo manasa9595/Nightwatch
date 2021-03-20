@@ -1,0 +1,92 @@
+{
+	"component": {
+		"xl": {
+			"name_selector": "[data-id='5a706862c99a065a25e0d666']"
+		},
+		"l": {
+			"name_selector": ""
+		},
+		"m": {
+			"name_selector": ""
+		},
+		"s": {
+			"name_selector": ""
+		},
+		"version": "Jan 30, 2018, 6:13 PM GMT+5:30",
+		"name": "PERS_Campaign_Promo_NW_XL"
+	},
+	"shelf": {
+		"zeplin-selectors": {
+			"xl": {
+				"padding-top": {
+					"selector": "[data-id='5a706862c99a065a25e0d6c1']",
+					"MoveToELementSel": "[data-id='5a706862c99a065a25e0d6c3']"
+				},
+				"padding-bottom": {
+					"selector": "[data-id='5a706862c99a065a25e0d6b8']",
+					"MoveToELementSel": "[data-id='5a706862c99a065a25e0d6b3']"
+				}
+			},
+			"l": {
+				"padding-top": {
+					"selector": "",
+					"MoveToELementSel": ""
+				},
+				"padding-bottom": {
+					"selector": "",
+					"MoveToELementSel": ""
+				}
+			},
+			"m": {
+				"padding-top": {
+					"selector": "",
+					"MoveToELementSel": ""
+				},
+				"padding-bottom": {
+					"selector": "",
+					"MoveToELementSel": ""
+				}
+			},
+			"s": {
+				"padding-top": {
+					"selector": "",
+					"MoveToELementSel": ""
+				},
+				"padding-bottom": {
+					"selector": "",
+					"MoveToELementSel": ""
+				}
+			}
+		},
+		"publish-selector": ".campaign-promo ",
+		"shelf-props": {
+			"padding-bottom": "70px",
+			"padding-top": "70px"
+		}
+	},
+	"imageWrap": {
+		"zeplin-selector": {
+			"xl": "[data-id='5a706862c99a065a25e0d6b8']",
+			"l": "",
+			"m": "",
+			"s": ""
+		},
+		"publish-selector": ".campaign-promo .comp-img-generic",
+		"image-props": {
+			"height": "445px",
+			"width": "445px"
+		}
+	},
+	"titleWrap": {
+		"zeplin-selector": {
+			"xl": "[data-id='5a706862c99a065a25e0d6c1']",
+			"l": "",
+			"m": "",
+			"s": ""
+		},
+		"publish-selector": ".campaign-promo .title-comp",
+		"title-props": {
+			"color": "rgba(66, 20, 95, 1)"
+		}
+	}
+}

@@ -1,0 +1,11 @@
+{
+    "mainWarp": {
+        "selector": ".campaign-promo "
+    },
+    "imageWrap": {
+        "selector": ".campaign-promo .comp-img-generic"
+    },
+    "titleWrap": {
+        "selector": ".campaign-promo .title-comp"
+    }
+}
