@@ -1,0 +1,1 @@
+This folder contains for regression.We can either run authoring ,publish or both.We can comment unwanted components also.

@@ -1,0 +1,2 @@
+This contains data for all the fields of the components,if we want to change any data.
+We will change the data here only and no need to change anywhere else.

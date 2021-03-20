@@ -1,0 +1,1 @@
+This is folder where it login to adminpage and then creates respective templates like blank and responsive templates.

@@ -1,0 +1,71 @@
+{
+  "src_folders" : ["tests"],
+  "output_folder" : "reports",
+  "custom_commands_path" : "./lib/commands/",
+  "custom_assertions_path" : "",
+  "page_objects_path" : [
+                          "./tests/",
+                          "./tests/shelfs/"
+                        ],
+  "globals_path" : "global.js",
+
+    "selenium" : {
+        "start_process" : true,
+        "server_path" : "lib/selenium/selenium-server-standalone-3.4.0.jar",
+        "start_session" : true,
+        "log_path" : "",
+        "host" : "127.0.0.1",
+        "port" : 4444,
+        "cli_args" : {
+          "webdriver.chrome.driver" : "lib/drivers/chromedriverLatestDriver.exe",
+          "webdriver.gecko.driver" : "lib/drivers/geckodriver.exe",
+          "webdriver.ie.driver" : "lib/drivers/IEDriverServer.exe"
+      }
+    },
+    "test_settings" : {
+    "default" : {
+      "isLocal" : true,
+      "launch_url" : "http://localhost",
+      "selenium_port"  : 4444,
+      "selenium_host" : "127.0.0.1",
+      "silent": true,
+      "screenshots" : {
+        "enabled" : false,
+        "path" : ""
+      },
+      "desiredCapabilities": {
+        "browserName": "chrome",
+        "marionette": true
+      }
+    },
+
+    "chrome" : {
+      "isLocal" : true,
+      "desiredCapabilities": {
+        "browserName": "chrome"
+      }
+    },
+
+    "edge" : {
+      "isLocal" : true,
+      "desiredCapabilities": {
+        "browserName": "MicrosoftEdge"
+      }
+    },
+    "ie" : {
+      "isLocal" : true,
+      "desiredCapabilities": {
+          "browserName": "internet explorer",
+          "elementScrollBehavior": 1,
+          "javascriptEnabled" : true
+          
+      }
+    },
+    "firefox" : {
+      "isLocal" : true,
+      "desiredCapabilities": {
+        "browserName": "firefox"
+      }
+    }    
+  }
+}
